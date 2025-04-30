@@ -1,23 +1,18 @@
-### Name : chandru v
-### Reg no : 212224230043
+# Name : DEEPIKA G
+# Reg no : 212224040060
 
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-**AIM :**
-
-
+# AIM :
 To  implement the Bresenham’s  algorithm for ellipse using a c coding.
 
-
-**EQUIPMENT REQUIRED:**
-
+# EQUIPMENT REQUIRED:
 
 ●	Hardware: Personal Computer (PC)
 
-
 ●	Software: C Compiler
 
-**ALGORITHM :**
+# ALGORITHM :
 
 Step 1 : Start.
   
@@ -34,7 +29,7 @@ Step  6 : Display the output.
 Step 7 : stop.
 
 
-**Program :**
+# Program :
 
 ```
 #include "stdio.h" 
@@ -113,11 +108,11 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 ```
 
 
-**Output :**
+# Output :
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/7511bec1-d012-48cd-a77f-1554e609dd51)
 
 
-**Result :**
+# Result :
 
 Thus the Bresenham’s  algorithm for ellipse using a c coding is implemented successfully .
